@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F7yT951j2QeNW3hIOm5/fDLuNGGf57+w+8lPcyT1Hoo=",
+  "Source": "MinOS-Rest-API",
+  "BasePath": "_content/MinOS-Rest-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
